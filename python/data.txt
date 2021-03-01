@@ -1,0 +1,11 @@
+name	geographic_origin	meaning	etymology
+Acacia	Australia	Thorny Tree	Greece
+Acanthus	Mediterranean	Enduring Life	Mediterranean
+Aloe	Arabian Peninsula	Forest	Greece
+Amaranth	Mediterranean	Unfading	Greece
+American Ash	Mexico	Spear	Latin
+Angelica	Iceland	Angel	Greece
+Anthericum	Africa	Straw	Greece
+Arum	Europe	Arrow	Greece
+Aspen	Northern Hemisphere	Quaking Tree	America
+Aster	Greece	Star	Greece
