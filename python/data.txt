@@ -1,4 +1,4 @@
-name	geographic_origin	meaning	etymology   image
+name	geographic_origin	meaning	etymology	image
 Acacia	Australia	Thorny Tree	Greece	images/AcaciaFlower.jpg
 Acanthus	Mediterranean	Enduring Life	Mediterranean	images/AcanthusFlower.jpg
 Aloe	Arabian Peninsula	Forest	Greece	images/AloeFlower.jpg

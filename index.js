@@ -32,7 +32,7 @@ function letterClicked(letter) {
         flowerDiv.setAttribute('class', 'alert alert-primary');
         flowerDiv.setAttribute('role', 'alert');
         flowerDiv.innerHTML = `No flowers starting with the letter <b>${letter}</b>.`;
-        
+
         div.append(flowerDiv);
         return;
     }
@@ -145,6 +145,76 @@ function getData() {
             "meaning": "Star",
             "etymology": "Greece",
             "image": "images/AsterFlower.jpg"
+        },
+        "Bergenia": {
+            "name": "Bergenia",
+            "geographic_origin": "Afghanistan",
+            "meaning": "Health",
+            "etymology": "Asia",
+            "image": "images/BergeniaFlower.jpg"
+        },
+        "Begonia": {
+            "name": "Begonia",
+            "geographic_origin": "Brazil",
+            "meaning": "Romance",
+            "etymology": "France",
+            "image": "images/BegoniaFlower.jpg"
+        },
+        "Bellflower": {
+            "name": "Bellflower",
+            "geographic_origin": "Mediterranean",
+            "meaning": "Delicacy",
+            "etymology": "Europe",
+            "image": "images/BellflowerFlower.jpg"
+        },
+        "Bluebell": {
+            "name": "Bluebell",
+            "geographic_origin": "United Kingdom",
+            "meaning": "Gratitude",
+            "etymology": "Greece",
+            "image": "images/BluebellFlower.jpg"
+        },
+        "Buddleja": {
+            "name": "Buddleja",
+            "geographic_origin": "China",
+            "meaning": "Butterfly",
+            "etymology": "England",
+            "image": "images/BuddlejaFlower.jpg"
+        },
+        "Bouvardia": {
+            "name": "Bouvardia",
+            "geographic_origin": "Mexico",
+            "meaning": "Enthusiasm",
+            "etymology": "Paris",
+            "image": "images/BouvardiaFlower.jpg"
+        },
+        "Buttercup": {
+            "name": "Buttercup",
+            "geographic_origin": "Iran",
+            "meaning": "Friendship",
+            "etymology": "Europe",
+            "image": "images/ButtercupFlower.jpg"
+        },
+        "Beardtongue": {
+            "name": "Beardtongue",
+            "geographic_origin": "North America",
+            "meaning": "Courage",
+            "etymology": "America",
+            "image": "images/BeardtongueFlower.jpg"
+        },
+        "Bistort": {
+            "name": "Bistort",
+            "geographic_origin": "Europe",
+            "meaning": "Feminine",
+            "etymology": "France",
+            "image": "images/BistortFlower.jpg"
+        },
+        "Bloodroot": {
+            "name": "Bloodroot",
+            "geographic_origin": "Eastern Asia",
+            "meaning": "Love",
+            "etymology": "America",
+            "image": "images/BloodrootFlower.jpg"
         }
     }
 }
