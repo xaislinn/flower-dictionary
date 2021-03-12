@@ -1,11 +1,21 @@
-name	geographic_origin	meaning	etymology
-Acacia	Australia	Thorny Tree	Greece
-Acanthus	Mediterranean	Enduring Life	Mediterranean
-Aloe	Arabian Peninsula	Forest	Greece
-Amaranth	Mediterranean	Unfading	Greece
-American Ash	Mexico	Spear	Latin
-Angelica	Iceland	Angel	Greece
-Anthericum	Africa	Straw	Greece
-Arum	Europe	Arrow	Greece
-Aspen	Northern Hemisphere	Quaking Tree	America
-Aster	Greece	Star	Greece
+name	geographic_origin	meaning	etymology   image
+Acacia	Australia	Thorny Tree	Greece	images/AcaciaFlower.jpg
+Acanthus	Mediterranean	Enduring Life	Mediterranean	images/AcanthusFlower.jpg
+Aloe	Arabian Peninsula	Forest	Greece	images/AloeFlower.jpg
+Amaranth	Mediterranean	Unfading	Greece	images/AmaranthFlower.jpg
+American Ash	Mexico	Spear	Latin	images/AmericanAshFlower.jpg
+Angelica	Iceland	Angel	Greece	images/AngelicaFlower.jpg
+Anthericum	Africa	Straw	Greece	images/AnthericumFlower.jpg
+Arum	Europe	Arrow	Greece	images/ArumFlower.jpg
+Aspen	Northern Hemisphere	Quaking Tree	America	images/AspenFlower.jpg
+Aster	Greece	Star	Greece	images/AsterFlower.jpg
+Bergenia	Afghanistan	Health	Asia	images/BergeniaFlower.jpg
+Begonia	Brazil	Romance	France	images/BegoniaFlower.jpg
+Bellflower	Mediterranean	Delicacy	Europe	images/BellflowerFlower.jpg
+Bluebell	United Kingdom	Gratitude	Greece	images/BluebellFlower.jpg
+Buddleja	China	Butterfly	England	images/BuddlejaFlower.jpg
+Bouvardia	Mexico	Enthusiasm	Paris	images/BouvardiaFlower.jpg
+Buttercup	Iran	Friendship	Europe	images/ButtercupFlower.jpg
+Beardtongue	North America	Courage	America	images/BeardtongueFlower.jpg
+Bistort	Europe	Feminine	France	images/BistortFlower.jpg
+Bloodroot	Eastern Asia	Love	America	images/BloodrootFlower.jpg
